@@ -167,10 +167,12 @@ Open your browser and navigate to `http://localhost` to see your Angular applica
 
 ---
 
-✍️ **Author:** Abhay Bendekar  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhay-bendekar-75474b372/)
 # Expose port 80 to the outside world
 EXPOSE 80
 
 # Start NGINX server when the container starts
 CMD ["nginx", "-g", "daemon off;"]
+
+
+✍️ **Author:** Abhay Bendekar  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhay-bendekar-75474b372/)
