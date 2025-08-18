@@ -174,9 +174,7 @@ EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 
 # Screenshot
-![Screenshot](Screenshot from 2025-08-17 19-48-02.png)
-
-
+![Screenshot](Screenshot%20from%202025-08-17%2019-48-02.png)
 
 
 ✍️ **Author:** Abhay Bendekar  
