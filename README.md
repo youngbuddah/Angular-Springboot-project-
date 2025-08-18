@@ -87,5 +87,9 @@ SELECT * FROM tbl_workers;
 
 ---
 
+## Screenshot
+![Screenshot](angular-frontend/Screenshot%20from%202025-08-17%2019-48-02.png)
+
+
 ✍️ **Author:** Abhay Bendekar  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhay-bendekar-75474b372/)
